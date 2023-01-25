@@ -1,14 +1,14 @@
 # hello-world
-***Soy Nicolás Martínez Ramos tengo 25 años, vivo en Bogotá y soy Psicólogo, les comparto mis intereses ==profesionales y personales.***
+***Soy Nicolás Martínez Ramos tengo 25 años, vivo en Bogotá y soy Psicólogo, les comparto mis intereses ==profesionales y personales.*** :neckbeard:
 
-### Academicos-profesionales
+### Academicos-profesionales :closed_book:
 1. Psicometria: Me gusta la creación de instrumentos para la medición de variables latentes.
 2. Psicología positiva: Me enfocado en la autocompasión, comparto el artículo que escribí ["Validación escala autocompasión"](https://www.psicothema.com/pii?pii=4784)
 3. Análisis de reducción de dimensiones: Me inclino a estudiar los análisis factoriales
 
-### Personales
+### Personales :dancer:
 1. Yoga: me forme en Hatha Yoga. 
-2. Estar con mi familia, incluído mi perro [Max](https://livejaverianaedu-my.sharepoint.com/:i:/g/personal/martineznicolas_javeriana_edu_co/EcSjUIc9MgJGhGmwce0WKkMBFFfu0te5RC0r6jo2i8vxdg?e=YK47SW)
+2. Estar con mi familia :family:, incluído mi perro [Max](https://livejaverianaedu-my.sharepoint.com/:i:/g/personal/martineznicolas_javeriana_edu_co/EcSjUIc9MgJGhGmwce0WKkMBFFfu0te5RC0r6jo2i8vxdg?e=YK47SW)
 
 ### A propósito de lo anterior, me gustaría profundizar en mi interés musical, les comparto la canción que estoy aprendiendo a tocar, la cual se llama el Minueto de Sol Menor de Cristian Pezold [^1]
 1. [Partitura](https://musescore.com/user/32208150/scores/6020110)
@@ -27,6 +27,8 @@ Llevo aprendiendo a tocar esta canción desde hace dos meses me ha costado la pr
 [^1]Estoy realizando actualmente esta tarea
 
 ### Por último comparto una check list de los propósitos de año nuevo que llevo cumplidos hasta el momento (espero todos los pueda cumplir :sweat_smile:)
-- [:thumbsdown:] Write the press release
-- [ ] Update the website
-- [ ] Contact the media
+- [:+1:] Iniciar Maestría :joy:
+- [:+1:] Hacer ejercicio :swimmer::bicyclist:
+- [ ] Aprobar todas mis materias
+- [:+1:] Pasar tiempo con mi familia :rainbow:
+- [:+1:] No volver a verme con mi ex. :sob:
