@@ -1,5 +1,5 @@
 # hello-world
-==Tarea computación estadística
+I need to highlight these ==Tarea computación estadística
 Soy Nicolás Martínez Ramos tengo 25 años, vivo en Bogotá y soy Psicólogo, les comparto mis intereses profesionales y personales==.
 
 ### Academicos-profesionales
