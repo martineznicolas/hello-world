@@ -3,16 +3,16 @@
 
 ### Academicos-profesionales
 1. Psicometria: Me gusta la creación de instrumentos para la medición de variables latentes.
-2. Psicología positiva: Me enfocado en la autocompasión, comparto el artículo que escribí [Articulo validación escala autocompasion](https://www.psicothema.com/pii?pii=4784)
+2. Psicología positiva: Me enfocado en la autocompasión, comparto el artículo que escribí ["Validación escala autocompasión"](https://www.psicothema.com/pii?pii=4784)
 3. Análisis de reducción de dimensiones: Me inclino a estudiar los análisis factoriales
 
 ### Personales
 1. Yoga: me forme en Hatha Yoga. 
-2. Estar con mi familia, incluído mi perro [foto max](https://livejaverianaedu-my.sharepoint.com/:i:/g/personal/martineznicolas_javeriana_edu_co/EcSjUIc9MgJGhGmwce0WKkMBFFfu0te5RC0r6jo2i8vxdg?e=YK47SW)
+2. Estar con mi familia, incluído mi perro [Max](https://livejaverianaedu-my.sharepoint.com/:i:/g/personal/martineznicolas_javeriana_edu_co/EcSjUIc9MgJGhGmwce0WKkMBFFfu0te5RC0r6jo2i8vxdg?e=YK47SW)
 
 ### A propósito de lo anterior, me gustaría profundizar en mi interés musical, les comparto la canción que estoy aprendiendo a tocar, la cual se llama el Minueto de Sol Menor de Cristian Pezold [^1]
-[Partitura](https://musescore.com/user/32208150/scores/6020110)
-[Video](https://www.youtube.com/watch?v=NHih-vcYGwU)
+1. [Partitura](https://musescore.com/user/32208150/scores/6020110)
+2. [Video](https://www.youtube.com/watch?v=NHih-vcYGwU)
 
 Llevo aprendiendo a tocar esta canción desde hace dos meses me ha costado la precisión con los tiempos de las corcheas :musical_note:
 
@@ -26,3 +26,4 @@ Llevo aprendiendo a tocar esta canción desde hace dos meses me ha costado la pr
 
 [^1]Estoy realizando actualmente esta tarea
 
+I need to highlight these ==very important words==.
