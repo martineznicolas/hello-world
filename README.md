@@ -24,4 +24,4 @@ Llevo aprendiendo a tocar esta canción desde hace dos meses me ha costado la pr
 |Computación estadística[^1] | Probabilidad               |
 
 
-<small>[^1]Estoy realizando actualmente esta tarea</small>
+<small>[^1]Estoy realizando actualmente esta tarea<small>
