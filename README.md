@@ -11,14 +11,16 @@ Tarea computación estadística
 1. Yoga: me forme en Hatha Yoga. 
 2. Estar con mi familia, incluído mi perro [foto max](https://livejaverianaedu-my.sharepoint.com/:i:/g/personal/martineznicolas_javeriana_edu_co/EcSjUIc9MgJGhGmwce0WKkMBFFfu0te5RC0r6jo2i8vxdg?e=YK47SW)
 
-### A propósito de lo anterior, me gustaría profundizar en mi interés musical, les comparto la canción que estoy aprendiendo a tocar
+### A propósito de lo anterior, me gustaría profundizar en mi interés musical, les comparto la canción que estoy aprendiendo a tocar, la cual se llama el Minueto de Sol Menor de Cristian Pezold [^1]
+Llevo aprendiendo a tocar esta canción desde hace dos meses me ha costado la precisión con los tiempos de las corcheas :musical_note:
 [Partitura](https://musescore.com/user/32208150/scores/6020110)
-[Video](https://www.youtube.com/watch?v=NHih-vcYGwU)[^1]
-[^1]: Llevo aproximadamente aprendiendo a tocar esta canción desde hace 2 meses
+[Video](https://www.youtube.com/watch?v=NHih-vcYGwU)
+: Llevo aproximadamente aprendiendo a tocar esta canción desde hace 2 meses, me ha costado los tiempos de las 
 
 ### Por otro otro lado, como muchos saben inicié mis estudios en bioestadística en la universidad javeriana, en ésta me han dejado varias tareas en donde les muestro cuáles he realizado y cuáles me queda pendientes
 
-|     Realizadas        |        Pendientes          |
-|:-------------------:  | :-----------------:        |
-|     Métodos I         | Fundamentos investigación  |
-|Computación estadística| Probabilidad               |
+|        Realizadas          |        Pendientes          |
+|:------------------------:  | :-----------------:        |
+|          Métodos I         | Fundamentos investigación  |
+|Computación estadística[^1] | Probabilidad               |
+[^1]Estoy realizando actualmente esta tarea
