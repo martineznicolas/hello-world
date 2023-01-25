@@ -1,5 +1,5 @@
 # hello-world
-==Soy Nicolás Martínez Ramos tengo 25 años, vivo en Bogotá y soy Psicólogo, les comparto mis intereses profesionales y personales==.
+== Soy Nicolás Martínez Ramos tengo 25 años, vivo en Bogotá y soy Psicólogo, les comparto mis intereses profesionales y personales ==.
 
 ### Academicos-profesionales
 1. Psicometria: Me gusta la creación de instrumentos para la medición de variables latentes.
