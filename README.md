@@ -1,6 +1,6 @@
 # hello-world
-Tarea computación estadística 
-==Soy Nicolás Martínez Ramos tengo 25 años, vivo en Bogotá y soy Psicólogo, les comparto mis intereses profesionales y personales==.
+==Tarea computación estadística
+Soy Nicolás Martínez Ramos tengo 25 años, vivo en Bogotá y soy Psicólogo, les comparto mis intereses profesionales y personales==.
 
 ### Academicos-profesionales
 1. Psicometria: Me gusta la creación de instrumentos para la medición de variables latentes.
@@ -23,5 +23,7 @@ Llevo aprendiendo a tocar esta canción desde hace dos meses me ha costado la pr
 |:------------------------:  | :-----------------:        |
 |          Métodos I         | Fundamentos investigación  |
 |Computación estadística[^1] | Probabilidad               |
+
+
 [^1]Estoy realizando actualmente esta tarea
 
