@@ -11,8 +11,8 @@
 2. Estar con mi familia :family:, incluído mi perro [Max](https://livejaverianaedu-my.sharepoint.com/:i:/g/personal/martineznicolas_javeriana_edu_co/EcSjUIc9MgJGhGmwce0WKkMBFFfu0te5RC0r6jo2i8vxdg?e=YK47SW)
 
 ### A propósito de lo anterior, me gustaría profundizar en mi interés musical, les comparto la canción que estoy aprendiendo a tocar, la cual se llama el Minueto de Sol Menor de Cristian Pezold [^1]
-1. [Partitura](https://musescore.com/user/32208150/scores/6020110)
-2. [Video](https://www.youtube.com/watch?v=NHih-vcYGwU)
+: [Partitura](https://musescore.com/user/32208150/scores/6020110)
+: [Video](https://www.youtube.com/watch?v=NHih-vcYGwU)
 
 Llevo aprendiendo a tocar esta canción desde hace dos meses me ha costado la precisión con los tiempos de las corcheas :musical_note:
 
