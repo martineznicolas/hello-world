@@ -10,7 +10,7 @@ Tarea computación estadística
 
 ## Personales
 1. Yoga: me forme en Hatha Yoga. 
-2. Estar con mi familia, incluído mi perro ![foto max]([C:\Users\Admin\Downloads\IMG-20221022-WA0009](https://livejaverianaedu-my.sharepoint.com/:i:/g/personal/martineznicolas_javeriana_edu_co/EcSjUIc9MgJGhGmwce0WKkMBFFfu0te5RC0r6jo2i8vxdg?e=dxbm64))
+2. Estar con mi familia, incluído mi perro ![foto max](C:\Users\Admin\Downloads\IMG-20221022-WA0009](https://livejaverianaedu-my.sharepoint.com/:i:/g/personal/martineznicolas_javeriana_edu_co/EcSjUIc9MgJGhGmwce0WKkMBFFfu0te5RC0r6jo2i8vxdg?e=dxbm64)
 
 ###A propósito de lo anterior, me gustaría profundizar en mi interés musical, les comparto la canción que estoy aprendiendo a tocar
 [Partitura](https://musescore.com/user/32208150/scores/6020110)
