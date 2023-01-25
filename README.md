@@ -15,9 +15,7 @@ Tarea computación estadística
 [Partitura](https://musescore.com/user/32208150/scores/6020110)
 [Video](https://www.youtube.com/watch?v=NHih-vcYGwU)
 
-*Llevo aprendiendo a tocar esta canción desde hace dos meses me ha costado la precisión con los tiempos de las corcheas :musical_note:
-
-: Llevo aproximadamente aprendiendo a tocar esta canción desde hace 2 meses, me ha costado los tiempos de las 
+	I need to highlight these ==Llevo aprendiendo a tocar esta canción desde hace dos meses me ha costado la precisión con los tiempos de las corcheas== :musical_note:
 
 ### Por otro otro lado, como muchos saben inicié mis estudios en bioestadística en la universidad javeriana, en ésta me han dejado varias tareas en donde les muestro cuáles he realizado y cuáles me queda pendientes
 
@@ -26,3 +24,4 @@ Tarea computación estadística
 |          Métodos I         | Fundamentos investigación  |
 |Computación estadística[^1] | Probabilidad               |
 [^1]Estoy realizando actualmente esta tarea
+
